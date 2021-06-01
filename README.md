@@ -1,2 +1,2 @@
-# GUIcalculator
-A simple GUI calculator made using Python3
+# GUI-calculator
+we create a simple calculator using gui using python3
